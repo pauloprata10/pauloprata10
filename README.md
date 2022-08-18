@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloprata10&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
+  <br>
+  
   ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,git,figma)
  
  <br>
