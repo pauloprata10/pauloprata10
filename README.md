@@ -1,5 +1,5 @@
 ### Olá, me chamo Paulo Prata, Desenvolvedor Front-End, com foco em Desenvolvimento Web 👋
- 
+ <br>
 <div>
   <a href="https://github.com/pauloprata10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloprata10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
