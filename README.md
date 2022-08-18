@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Para conteúdo sobre programação me segue na rede abaixo!
+  ### Para conteúdo sobre programação me segue no LinkedIn!
   
   <br>
  
