@@ -9,7 +9,7 @@
   
   <br>
   
-  ##Estou desenvolvendo projetos com:
+  Estou desenvolvendo projetos com:
   ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,git,figma)
  
   <br>
