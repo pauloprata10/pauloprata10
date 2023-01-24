@@ -2,9 +2,9 @@
  <br>
 <div>
   <a href="https://github.com/pauloprata10">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app "/>
+  <img height="180em" src="https://github-readme-stats -ten-gilt.vercel.app"/>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloprata10&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats -ten-gilt.vercel.app "/>
 </div>
   
   <br>
