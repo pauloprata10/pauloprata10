@@ -2,9 +2,9 @@
  <br>
 <div>
   <a href="https://github.com/pauloprata10">
-  <img height="180em" src="github-readme-stats-one-gamma-64.vercel.app"/>
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloprata10)](https://github.com/anuraghazra/github-readme-stats)"/>
   <br>
-  <img height="180em" src="github-readme-stats-one-gamma-64.vercel.app"/>
+  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloprata10)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
   
   <br>
